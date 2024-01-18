@@ -1,0 +1,572 @@
+Uri: https://assda-sa.com/
+File Name: C:\My Web Sites\assda-sa.com\index.htm
+Content Type: text/html
+
+Uri: https://assda-sa.com/about.html
+File Name: C:\My Web Sites\assda-sa.com\about.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/contact.html
+File Name: C:\My Web Sites\assda-sa.com\contact.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/css/animate.min.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\animate.min.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/css/bootstrap-theme.min.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\bootstrap-theme.min.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/css/bootstrap.min.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/css/font-awesome.min.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/css/fonts/Stroke-Gap-Icons.html
+File Name: C:\My Web Sites\assda-sa.com\css (1)\fonts\Stroke-Gap-Icons.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/css/strock-icon.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\strock-icon.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/css/style.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\style.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/css/styleRtl.css
+File Name: C:\My Web Sites\assda-sa.com\css (1)\styleRtl.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/En/about.html
+File Name: C:\My Web Sites\assda-sa.com\En\about.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/contact.html
+File Name: C:\My Web Sites\assda-sa.com\En\contact.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/index.html
+File Name: C:\My Web Sites\assda-sa.com\En\index.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/projects-details-MDF.html
+File Name: C:\My Web Sites\assda-sa.com\En\projects-details-MDF.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/projects-details-PLYWOOD.html
+File Name: C:\My Web Sites\assda-sa.com\En\projects-details-PLYWOOD.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/projects-details-RedWood.html
+File Name: C:\My Web Sites\assda-sa.com\En\projects-details-RedWood.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/projects-details-WhiteWood.html
+File Name: C:\My Web Sites\assda-sa.com\En\projects-details-WhiteWood.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/En/service.html
+File Name: C:\My Web Sites\assda-sa.com\En\service.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/favicon/favicon.png
+File Name: C:\My Web Sites\assda-sa.com\favicon\favicon.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/fonts/fontawesome-webfont3295.eot?v=4.5.0
+File Name: C:\My Web Sites\assda-sa.com\fonts\fontawesome-webfont3295.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assda-sa.com/fonts/fontawesome-webfont3295.svg?v=4.5.0
+File Name: C:\My Web Sites\assda-sa.com\fonts\fontawesome-webfont3295.svg
+Content Type: image/svg+xml
+
+Uri: https://assda-sa.com/fonts/fontawesome-webfont3295.ttf?v=4.5.0
+File Name: C:\My Web Sites\assda-sa.com\fonts\fontawesome-webfont3295.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assda-sa.com/fonts/fontawesome-webfont3295.woff2?v=4.5.0
+File Name: C:\My Web Sites\assda-sa.com\fonts\fontawesome-webfont3295.woff2
+Content Type: font/woff2
+
+Uri: https://assda-sa.com/fonts/fontawesome-webfont3295.woff?v=4.5.0
+File Name: C:\My Web Sites\assda-sa.com\fonts\fontawesome-webfont3295.woff
+Content Type: application/font-woff
+
+Uri: https://assda-sa.com/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\My Web Sites\assda-sa.com\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assda-sa.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\My Web Sites\assda-sa.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assda-sa.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\My Web Sites\assda-sa.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://assda-sa.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\My Web Sites\assda-sa.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assda-sa.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\My Web Sites\assda-sa.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://assda-sa.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\My Web Sites\assda-sa.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://assda-sa.com/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\My Web Sites\assda-sa.com\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assda-sa.com/images/about/banner.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\about\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/clients-logo/1.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\clients-logo\1.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/clients-logo/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\clients-logo\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/clients-logo/3.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\clients-logo\3.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/clients-logo/4.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\clients-logo\4.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/expreence/1.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\expreence\1.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/expreence/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\expreence\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/expreence/bg.png
+File Name: C:\My Web Sites\assda-sa.com\images\expreence\bg.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/images/footer/footer-bg.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\footer\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/great-work/email.png
+File Name: C:\My Web Sites\assda-sa.com\images\great-work\email.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/images/great-work/phone.png
+File Name: C:\My Web Sites\assda-sa.com\images\great-work\phone.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/images/great-work/right-img.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\great-work\right-img.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/header/logo.png
+File Name: C:\My Web Sites\assda-sa.com\images\header\logo.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/images/latest-project/1.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\latest-project\1.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/latest-project/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\latest-project\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/latest-project/3.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\latest-project\3.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/latest-project/4.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\latest-project\4.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/product-details/1.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\product-details\1.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/product-details/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\product-details\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/product-details/3.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\product-details\3.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/product-details/4.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\product-details\4.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/slider-img/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\slider-img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/slider-img/bgAr.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\slider-img\bgAr.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/we-do/1.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\we-do\1.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/we-do/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\we-do\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/we-do/3.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\we-do\3.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/we-do/4.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\we-do\4.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/we-do/5.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\we-do\5.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/we-do/6.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\we-do\6.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/workshop/2.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\workshop\2.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/images/workshop/work.jpg
+File Name: C:\My Web Sites\assda-sa.com\images\workshop\work.jpg
+Content Type: image/jpeg
+
+Uri: https://assda-sa.com/index.html
+File Name: C:\My Web Sites\assda-sa.com\index.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/js/bootstrap.min.js
+File Name: C:\My Web Sites\assda-sa.com\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/js/contact.js
+File Name: C:\My Web Sites\assda-sa.com\js\contact.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/js/gmaps.min.js
+File Name: C:\My Web Sites\assda-sa.com\js\gmaps.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/js/google-map.html
+File Name: C:\My Web Sites\assda-sa.com\js\google-map.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/js/jquery-2.2.0.min.js
+File Name: C:\My Web Sites\assda-sa.com\js\jquery-2.2.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/js/jquery.form.js
+File Name: C:\My Web Sites\assda-sa.com\js\jquery.form.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/js/jquery.validate.min.js
+File Name: C:\My Web Sites\assda-sa.com\js\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/js/theme.js
+File Name: C:\My Web Sites\assda-sa.com\js\theme.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/Products.html
+File Name: C:\My Web Sites\assda-sa.com\Products.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/projects-details-MDF.html
+File Name: C:\My Web Sites\assda-sa.com\projects-details-MDF.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/projects-details-PLYWOOD.html
+File Name: C:\My Web Sites\assda-sa.com\projects-details-PLYWOOD.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/projects-details-RedWood.html
+File Name: C:\My Web Sites\assda-sa.com\projects-details-RedWood.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/projects-details-WhiteWood.html
+File Name: C:\My Web Sites\assda-sa.com\projects-details-WhiteWood.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/service.html
+File Name: C:\My Web Sites\assda-sa.com\service.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/vendors/imagesloaded/imagesloaded.pkgd.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/isotope/isotope.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\isotope\isotope.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/magnific/jquery.magnific-popup.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\magnific\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/magnific/magnific-popup.css
+File Name: C:\My Web Sites\assda-sa.com\vendors\magnific\magnific-popup.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/vendors/masonery/masonery-min.html
+File Name: C:\My Web Sites\assda-sa.com\vendors\masonery\masonery-min.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/vendors/owlcarousel/owl.carousel.css
+File Name: C:\My Web Sites\assda-sa.com\vendors\owlcarousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/vendors/owlcarousel/owl.carousel.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\owlcarousel\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/owlcarousel/owl.video.play.html
+File Name: C:\My Web Sites\assda-sa.com\vendors\owlcarousel\owl.video.play.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/vendors/rs-plugin/assets/coloredbg.png
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/vendors/rs-plugin/assets/gridtile.png
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/vendors/rs-plugin/assets/gridtile_3x3.png
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/vendors/rs-plugin/assets/gridtile_3x3_white.png
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/vendors/rs-plugin/assets/gridtile_white.png
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://assda-sa.com/vendors/rs-plugin/assets/loader.gif
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://assda-sa.com/vendors/rs-plugin/css/closedhand.html
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\css\closedhand.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/vendors/rs-plugin/css/openhand.html
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\css\openhand.html
+Content Type: text/html
+
+Uri: https://assda-sa.com/vendors/rs-plugin/css/settings.css
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\css\settings.css
+Content Type: text/css
+
+Uri: https://assda-sa.com/vendors/rs-plugin/fonts/revicons/revicons90c6.eot?5510888
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\fonts\revicons\revicons90c6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assda-sa.com/vendors/rs-plugin/fonts/revicons/revicons90c6.svg?5510888
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\fonts\revicons\revicons90c6.svg
+Content Type: image/svg+xml
+
+Uri: https://assda-sa.com/vendors/rs-plugin/fonts/revicons/revicons90c6.ttf?5510888
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\fonts\revicons\revicons90c6.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assda-sa.com/vendors/rs-plugin/fonts/revicons/revicons90c6.woff?5510888
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\fonts\revicons\revicons90c6.woff
+Content Type: application/font-woff
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.actions.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.actions.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.migration.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.migration.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/extensions/revolution.extension.video.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\extensions\revolution.extension.video.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/jquery.themepunch.revolution.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\jquery.themepunch.revolution.min.js
+Content Type: application/x-javascript
+
+Uri: https://assda-sa.com/vendors/rs-plugin/js/jquery.themepunch.tools.min.js
+File Name: C:\My Web Sites\assda-sa.com\vendors\rs-plugin\js\jquery.themepunch.tools.min.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap
+File Name: C:\My Web Sites\assda-sa.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Alegreya:400,700,700italic,400italic
+File Name: C:\My Web Sites\assda-sa.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,300,700,300italic
+File Name: C:\My Web Sites\assda-sa.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic
+File Name: C:\My Web Sites\assda-sa.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700
+File Name: C:\My Web Sites\assda-sa.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:800,700,500,400,600
+File Name: C:\My Web Sites\assda-sa.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v17/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v34bP.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\notokufiarabic\v17\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v34bP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\ptserif\v18\EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRTQgYoZZY2vCFuvAFT_r21dw.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\ptserif\v18\EJRTQgYoZZY2vCFuvAFT_r21dw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRVQgYoZZY2vCFuvAFWzro.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\ptserif\v18\EJRVQgYoZZY2vCFuvAFWzro.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\My Web Sites\assda-sa.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+

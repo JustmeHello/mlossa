@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf) format('truetype');
+}
